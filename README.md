@@ -1,5 +1,5 @@
 # Query-Me-This
-CS 32 Project 4, Spring 2021 <br />
+CS 32 (Introduction to Computer Science II) Project 4, Spring 2021 <br />
 Taught by Professor David Smallberg <br />
 <br />
 High-Level Project Description: <br />
